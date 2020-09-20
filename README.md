@@ -7,6 +7,10 @@ And data files as rainfall.csv and rainfall.json
 
 Create a Pandas DataFrame
 
-Clean Data using Pandas
+Read Data from Files(.csv,.json,canned data)
 
-Perform Statistics on Data
+Cleaning Data
+
+Data Analysis
+
+Data Subset
